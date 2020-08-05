@@ -1,0 +1,22 @@
+.App{
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  
+}
+.search_form{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  margin-top: 5px;
+}
+.search_input{
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+.search_button{
+  background-color: lightcoral;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+}
